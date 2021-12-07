@@ -1,4 +1,4 @@
-Generative patcher for piano
+Generative patcher for piano (Work in progress)
 
 ----------------------------------
 
